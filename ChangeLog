@@ -1,0 +1,33 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## Unreleased
+- Unique id buffer removed
+- Unique id generator replaced by faster non-secure version
+
+## [1.0.5] - 2019-03-22
+- Added unique id buffer, for rpc jobs
+
+## [1.0.4] - 2019-03-20
+- Removed tslib dependency from package.json
+- Added RPC examples in readme
+
+## [1.0.3] - 2019-03-20
+### Changed
+- Fixed example code in readme
+
+## [1.0.2] - 2019-03-20
+### Changed
+- Improvements in TypeScript configuration
+
+## [1.0.1] - 2019-03-20
+### Changed
+- Rearranged directory structure
+- Added TypeScript declaration re-export
+
+## [1.0.0] - 2019-03-19
+### Added
+- Init commit

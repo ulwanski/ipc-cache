@@ -1,0 +1,33 @@
+{
+  "name": "ipc-cache",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "lru",
+    "ipc",
+    "sock",
+    "event",
+    "cache",
+    "socket",
+    "process",
+    "storage",
+    "network",
+    "messages",
+    "unixsocket"
+  ],
+  "homepage": "https://github.com/ulwanski/ipc-network",
+  "license": "GPL-3.0",
+  "author": "Marek Ulwański <marek@ulwanski.pl>",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ulwanski/ipc-network.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ipc-network": "^1.0.5"
+  }
+}
